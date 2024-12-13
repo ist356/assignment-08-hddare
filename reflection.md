@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Henry Dare
+Sudent Email:  hddare@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+My experience with this assignment was very different from the other ones as the vast majority was done in class with you. To me, this assignment felt more as a demonstration of the capabilities of geopandas, folium, streamlit, seaborn etc and how powerful they can be working together. NOTE: I wasn't able to install geopandas properly in class, I was having a weird issue with my pip3. However, I've worked with the package extensively for my semester project in IST407, so I am very familiar with it and how it works. All of that code is done in an azure environment, so I've never needed to actually install it in VSCode. This assignment was very interesting, and I'm looking forward to applying geopandas seaborn as well as hopefully folium in my final project.
